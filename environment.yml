@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python
   - jupyterlab
-  - nodejs[version='>=10']
+  - nodejs
   - numpy
   - pandas
   - matplotlib
